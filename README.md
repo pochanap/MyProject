@@ -4,17 +4,24 @@ Get Started With Django
 
 
 Set Up Your Development Environment.
+Install Prerequisites:
+Python 
+Pip 
+Django
 
 
-To Check version
+To Check version:
+
 $ python -m django --version
 
 
-Create a Django Project
+Create a Django Project:
+
 $ django-admin startproject <Project_Name>
 
 
 
-Create a Django Application
+Create a Django Application:
+
 $ python manage.py startapp <App_Name>
 
